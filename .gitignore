@@ -1,0 +1,14 @@
+# Archivos generados por Maven al compilar y ejecutar
+target/
+
+# Configuración local de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Notas personales del curso (no se publican)
+CONTEXTO.md
+fotos/
